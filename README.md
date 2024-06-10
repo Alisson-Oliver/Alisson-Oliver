@@ -104,7 +104,7 @@
 <br>
 
 ## **Connect With Me🤝!**
-  [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://skillicons.dev)
+  [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/alisson-oliver/)
 
 </div>
 
