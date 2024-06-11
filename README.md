@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Alisson-Oliver/Alisson-Oliver/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake gif" />
+  <img src="https://github.com/Alisson-Oliver/Alisson-Oliver/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
 </p>
 
 
