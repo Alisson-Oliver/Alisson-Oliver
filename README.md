@@ -38,7 +38,8 @@
 
 - **Languages**:
     
-   [![languages](https://skillicons.dev/icons?i=java,sql&theme=dark)](https://skillicons.dev)
+   [![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
+  [![JS](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
   
 
 <br>
