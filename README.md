@@ -22,7 +22,7 @@
 
 - 🎓 Computer Science student
 - 🔭 I enjoy studying astronomy in my free time
-- ✍️ Currently learning Spring Boot in Java
+- ✍️ Currently learning NodeJS
 - 📄 I’m open to an internship or a new job opportunity, this is my [LinkedIn](https://www.linkedin.com/in/alisson-oliver/)
 - 😄 Pronouns: He/him
 
@@ -48,6 +48,7 @@
   
    [![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
    [![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
+   [![NodeJS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
 
 <br>   
     
@@ -71,6 +72,7 @@
     [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://skillicons.dev)
     [![Visual Studio Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)
     [![Eclipse](https://skillicons.dev/icons?i=eclipse&theme=dark)](https://skillicons.dev)
+    [![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://skillicons.dev)
     [![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
     [![Windows](https://skillicons.dev/icons?i=windows&theme=dark)](https://skillicons.dev)
 
@@ -86,7 +88,6 @@
 - **Currently Learning**:
   
     [![Spring](https://skillicons.dev/icons?i=spring&theme=dark)](https://skillicons.dev)
-    [![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://skillicons.dev)
     [![Hibernate](https://skillicons.dev/icons?i=hibernate&theme=dark)](https://skillicons.dev)
   
   
