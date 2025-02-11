@@ -38,10 +38,11 @@
 
 - **Languages**:
     
-   [![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
+  [![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
   [![JS](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
+  [![C#](https://skillicons.dev/icons?i=cs&theme=dark)](https://skillicons.dev)
+  [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
   
-
 <br>
 
 - **Back-End Development**:
@@ -83,14 +84,7 @@
     [![Notion](https://skillicons.dev/icons?i=notion&theme=dark)](https://skillicons.dev)
     [![Figma](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev)
 
-<br>
-
-- **Currently Learning**:
-  
-    [![Spring](https://skillicons.dev/icons?i=spring&theme=dark)](https://skillicons.dev)
-    [![Hibernate](https://skillicons.dev/icons?i=hibernate&theme=dark)](https://skillicons.dev)
-  
-  
+<br> 
 
 </p>
 
