@@ -62,6 +62,8 @@
 
 ## 📊 **GitHub Stats**
 
+<br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alisson-Oliver&show_icons=true&theme=radical" width="48%" />
 </p>
@@ -74,7 +76,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alisson-Oliver&theme=radical" width="48%" />
 </p>
 
-<br><br>
+<br>
 
 ## 🏦 **Professional Experience**
 
