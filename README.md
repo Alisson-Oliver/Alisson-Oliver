@@ -42,6 +42,7 @@
 [![NodeJS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
 [![Boostrap](https://skillicons.dev/icons?i=bootstrap&theme=dark)](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
 [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://skillicons.dev)
 [![Visual Studio Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)
 [![Eclipse](https://skillicons.dev/icons?i=eclipse&theme=dark)](https://skillicons.dev)
