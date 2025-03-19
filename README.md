@@ -12,8 +12,6 @@
 
 ## 🧑‍💻 **About Me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
-
 - 🎓 **Computer Science student**, passionate about technology.
 - 🚀 Currently enhancing my expertise in **Node.js** and backend development.
 - 🔭 Passionate about **astronomy** and **ethical hacking**, always exploring new technologies.
@@ -66,11 +64,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alisson-Oliver&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alisson-Oliver&theme=radical" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisson-Oliver&layout=compact&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alisson-Oliver&theme=radical" width="48%" />
 </p>
 
 <br><br>
