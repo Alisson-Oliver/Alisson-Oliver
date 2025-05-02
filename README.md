@@ -38,6 +38,7 @@
 ### 💻 **Framework and tools**
 
 [![NodeJS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
+[![NestJS](https://skillicons.dev/icons?i=nestjs&theme=dark)](https://skillicons.dev)
 [![Boostrap](https://skillicons.dev/icons?i=bootstrap&theme=dark)](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
 [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
