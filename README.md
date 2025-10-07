@@ -84,13 +84,22 @@
 
 ## 🏦 **Professional Experience**
 
+[<img align="left" height="94px" width="95px" src="https://media.licdn.com/dms/image/v2/C4D0BAQH83ZVusjogGA/company-logo_200_200/company-logo_200_200/0/1669891931458/kempetro_engenharia_logo?e=2147483647&v=beta&t=Gnbs1hshNURGdZ6e2cbTp65v9UylnfNy_o9gIWtjLoQ"/>](https://www.kempetro.com.br/)  
+
+**Full Stack Software Developer Intern**  
+[**Kempetro Engenharia**](https://www.kempetro.com.br/)  
+**September 2025 – Present**  
+
+<br>
+
 [<img align="left" height="94px" width="95px" src="https://media.licdn.com/dms/image/v2/D4D0BAQFd2rOF6ddv6w/company-logo_200_200/company-logo_200_200/0/1737984027931/compass_uol_logo?e=2147483647&v=beta&t=D6esV5jvhBHpAogtuPnJlM5QsixDedKlsqlSSkRVYHk"/>](https://compass.uol/en/home/)
 
 **Back-End Software Developer Intern**  
 [**Compass UOL**](https://compass.uol/en/home/)  
-March 2025 – Present  
+**March 2025 – September 2025**  
 
 <br>
+
 
 ## 📚 **Academic Background**
 
