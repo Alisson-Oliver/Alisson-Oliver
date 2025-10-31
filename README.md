@@ -106,7 +106,7 @@
 [<img align="left" height="94px" width="94px" src="https://i.postimg.cc/k4brvXpj/unifacs.png"/>](https://www.unifacs.br)  
 **Bachelor's Degree in Computer Science**  
 [**Universidade Salvador - UNIFACS**](https://www.unifacs.br)  
-August 2023 – December 2027   
+August 2023 – July 2027   
 
 <br>
 
