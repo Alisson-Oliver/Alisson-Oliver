@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Alisson-Oliver&color=blue" />
+</p>
+
 <p align="center">
   <img src="https://github.com/Alisson-Oliver/Alisson-Oliver/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
 </p>
