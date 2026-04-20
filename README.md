@@ -34,8 +34,6 @@
 [![TS](https://skillicons.dev/icons?i=ts&theme=dark)](https://skillicons.dev)
 [![C#](https://skillicons.dev/icons?i=cs&theme=dark)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
-[![html](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
 
 <br>
 
@@ -43,8 +41,8 @@
 
 [![NodeJS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
 [![NestJS](https://skillicons.dev/icons?i=nestjs&theme=dark)](https://skillicons.dev)
-[![Prisma](https://skillicons.dev/icons?i=prisma&theme=dark)](https://skillicons.dev)
-[![Boostrap](https://skillicons.dev/icons?i=bootstrap&theme=dark)](https://skillicons.dev)
+[![NextJs](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://skillicons.dev)
+[![ReaJS](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
 [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
 [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://skillicons.dev)
@@ -60,11 +58,11 @@
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
 [![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark)](https://skillicons.dev)
 [![NPM](https://skillicons.dev/icons?i=npm&theme=dark)](https://skillicons.dev)
-[![Yarn](https://skillicons.dev/icons?i=yarn&theme=dark)](https://skillicons.dev)
 [![Supabase](https://skillicons.dev/icons?i=supabase&theme=dark)](https://skillicons.dev)
 [![Sequelize](https://skillicons.dev/icons?i=sequelize&theme=dark)](https://skillicons.dev)
 [![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark)](https://skillicons.dev)
 [![VS](https://skillicons.dev/icons?i=visualstudio&theme=dark)](https://skillicons.dev)
+[![Prisma](https://skillicons.dev/icons?i=prisma&theme=dark)](https://skillicons.dev)
 
 <br><br>
 
