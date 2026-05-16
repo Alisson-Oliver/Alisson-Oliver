@@ -1,121 +1,170 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Alisson-Oliver&color=blue" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/Alisson-Oliver/Alisson-Oliver/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7225D9&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-<h1 align="center"><b>Hi, I'm Alisson Oliveira</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img src="https://komarev.com/ghpvc/?username=Alisson-Oliver&color=7225D9&style=flat-square&label=Profile+Views" />
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=&size=29&duration=3000&pause=1000&color=7225D9&random=false&width=550&height=45&lines=Sou+apaixonado+pela+tecnologia%2C;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o%2C;Sempre+buscando+aprender%2C;Gosto+de+resolver+problemas%2C;Entusiasta+de+inova%C3%A7%C3%A3o." alt="Typing SVG" />
-  </a>
-</p>
-
-## 🧑‍💻 **About Me**
-
-- 🎓 **Computer Science student**, passionate about technology.
-- 🚀 Currently enhancing my expertise in **Node.js** and backend development.
-- 🔭 Passionate about **astronomy** and **ethical hacking**, always exploring new technologies.
-- ⚡ Fun fact: I enjoy **reverse engineering** and **experimenting with new frameworks**.
-- 💼 Open to new job opportunities: [LinkedIn](https://www.linkedin.com/in/alisson-oliver/).
-- ⭐ My Portifolio: [Here](https://alissonoliver.com.br/).
-- 🇧🇷 I'm from **Brasil**.
-- 😄 Pronouns: He/Him.
+</div>
 
 ---
 
-### 💻 **Technologies**
-
-	
-[![Java](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
-[![JS](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
-[![TS](https://skillicons.dev/icons?i=ts&theme=dark)](https://skillicons.dev)
-[![C#](https://skillicons.dev/icons?i=cs&theme=dark)](https://skillicons.dev)
-[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
-
-<br>
-
-### 💻 **Framework and tools**
-
-[![NodeJS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
-[![NestJS](https://skillicons.dev/icons?i=nestjs&theme=dark)](https://skillicons.dev)
-[![NextJs](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://skillicons.dev)
-[![ReaJS](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
-[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
-[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
-[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://skillicons.dev)
-[![Visual Studio Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)
-[![Eclipse](https://skillicons.dev/icons?i=eclipse&theme=dark)](https://skillicons.dev)
-[![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://skillicons.dev)
-[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
-[![Windows](https://skillicons.dev/icons?i=windows&theme=dark)](https://skillicons.dev)
-[![Figma](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev)
-[![Bash](https://skillicons.dev/icons?i=bash&theme=dark)](https://skillicons.dev)
-[![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://skillicons.dev)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
-[![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark)](https://skillicons.dev)
-[![NPM](https://skillicons.dev/icons?i=npm&theme=dark)](https://skillicons.dev)
-[![Supabase](https://skillicons.dev/icons?i=supabase&theme=dark)](https://skillicons.dev)
-[![Sequelize](https://skillicons.dev/icons?i=sequelize&theme=dark)](https://skillicons.dev)
-[![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark)](https://skillicons.dev)
-[![VS](https://skillicons.dev/icons?i=visualstudio&theme=dark)](https://skillicons.dev)
-[![Prisma](https://skillicons.dev/icons?i=prisma&theme=dark)](https://skillicons.dev)
-
-<br><br>
-
-## 📊 **GitHub Stats**
-
-<br>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alisson-Oliver&show_icons=true&theme=radical" width="48%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7225D9&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Alisson+Oliveira+%F0%9F%91%8B;Full+Stack+Developer+%7C+CS+Student;Passionate+about+technology+%26+innovation;Always+learning%2C+always+building." alt="Typing SVG" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisson-Oliver&layout=compact&theme=radical" width="48%" />
+---
+
+## About Me
+
+```typescript
+const alisson: Developer = {
+  name:        "Alisson Oliveira",
+  location:    "Salvador, Bahia, Brazil",
+  education:   "B.Sc. Computer Science — UNIFACS (2023–2027)",
+  role:        "Full Stack Developer Intern @ Kempetro Engenharia",
+
+  currentFocus: [
+    "Node.js & backend architecture",
+    "Clean Code & SOLID principles",
+    "API design and scalable systems",
+  ],
+
+  interests: [
+    "Astronomy",
+    "Ethical Hacking & CTFs",
+    "Reverse Engineering",
+    "Exploring new frameworks",
+  ],
+
+  availableFor: "New job opportunities",
+};
+```
+
+---
+
+## Professional Experience
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.kempetro.com.br/">
+        <img src="https://media.licdn.com/dms/image/v2/C4D0BAQH83ZVusjogGA/company-logo_200_200/company-logo_200_200/0/1669891931458/kempetro_engenharia_logo?e=2147483647&v=beta&t=Gnbs1hshNURGdZ6e2cbTp65v9UylnfNy_o9gIWtjLoQ" width="60px" style="border-radius: 8px"/>
+      </a>
+    </td>
+    <td>
+      <strong>Full Stack Software Developer Intern</strong><br/>
+      <a href="https://www.kempetro.com.br/">Kempetro Engenharia</a> &nbsp;•&nbsp; Sep 2025 – Present<br/>
+      <sub>Building full-stack solutions in an engineering-focused environment.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://compass.uol/en/home/">
+        <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFd2rOF6ddv6w/company-logo_200_200/company-logo_200_200/0/1737984027931/compass_uol_logo?e=2147483647&v=beta&t=D6esV5jvhBHpAogtuPnJlM5QsixDedKlsqlSSkRVYHk" width="60px" style="border-radius: 8px"/>
+      </a>
+    </td>
+    <td>
+      <strong>Back-End Software Developer Intern</strong><br/>
+      <a href="https://compass.uol/en/home/">Compass UOL</a> &nbsp;•&nbsp; Mar 2025 – Sep 2025<br/>
+      <sub>Focused on backend services, APIs, and scalable architectures.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Academic Background
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.unifacs.br">
+        <img src="https://i.postimg.cc/k4brvXpj/unifacs.png" width="60px" style="border-radius: 8px"/>
+      </a>
+    </td>
+    <td>
+      <strong>Bachelor's Degree in Computer Science</strong><br/>
+      <a href="https://www.unifacs.br">Universidade Salvador – UNIFACS</a> &nbsp;•&nbsp; Aug 2023 – Jul 2027
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,cs,python&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alisson-Oliver&theme=radical" width="48%" />
+### Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,react,git,docker,github,vscode&theme=dark" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,figma,postman,eclipse,visualstudio,npm,vercel&theme=dark" />
 </p>
 
-<br>
+### Databases & ORMs
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase,prisma,sequelize&theme=dark" />
+</p>
 
-## 🏦 **Professional Experience**
+---
 
-[<img align="left" height="94px" width="95px" src="https://media.licdn.com/dms/image/v2/C4D0BAQH83ZVusjogGA/company-logo_200_200/company-logo_200_200/0/1669891931458/kempetro_engenharia_logo?e=2147483647&v=beta&t=Gnbs1hshNURGdZ6e2cbTp65v9UylnfNy_o9gIWtjLoQ"/>](https://www.kempetro.com.br/)  
+## Activity
 
-**Full Stack Software Developer Intern**  
-[**Kempetro Engenharia**](https://www.kempetro.com.br/)  
-**September 2025 – Present**  
+<div align="center">
 
-<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Alisson-Oliver&theme=radical&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[<img align="left" height="94px" width="95px" src="https://media.licdn.com/dms/image/v2/D4D0BAQFd2rOF6ddv6w/company-logo_200_200/company-logo_200_200/0/1737984027931/compass_uol_logo?e=2147483647&v=beta&t=D6esV5jvhBHpAogtuPnJlM5QsixDedKlsqlSSkRVYHk"/>](https://compass.uol/en/home/)
+</div>
 
-**Back-End Software Developer Intern**  
-[**Compass UOL**](https://compass.uol/en/home/)  
-**March 2025 – September 2025**  
+<div align="center">
 
-<br>
+[![Alisson's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alisson-Oliver&theme=tokyo-night&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</div>
 
-## 📚 **Academic Background**
+---
 
-[<img align="left" height="94px" width="94px" src="https://i.postimg.cc/k4brvXpj/unifacs.png"/>](https://www.unifacs.br)  
-**Bachelor's Degree in Computer Science**  
-[**Universidade Salvador - UNIFACS**](https://www.unifacs.br)  
-August 2023 – July 2027   
+## GitHub Trophies
 
-<br>
+<div align="center">
 
-## 🤝 **Connect With Me**
+[![trophy](https://github-profile-trophy.vercel.app/?username=Alisson-Oliver&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alisson-oliver/) 
-[<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">](mailto:alisson.oliver.dev@gmail.com)
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+
+## Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/Alisson-Oliver/Alisson-Oliver/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+</div>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alisson-oliver/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:alisson.oliver.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://alissonoliver.com.br/">
+    <img src="https://img.shields.io/badge/Portfolio-7225D9?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7225D9&height=100&section=footer" width="100%"/>
+
+</div>
