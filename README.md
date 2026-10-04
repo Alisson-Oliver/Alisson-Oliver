@@ -34,8 +34,18 @@ Backend-focused software developer building internal systems at Kempetro Engenha
     </td>
     <td>
       <strong>Software Developer</strong><br/>
-      <a href="https://www.kempetro.com.br/">Kempetro Engenharia</a> &nbsp;&bull;&nbsp; Sep 2025 &ndash; Present<br/>
+      <a href="https://www.kempetro.com.br/">Kempetro Engenharia</a> &nbsp;&bull;&nbsp; Sep 2026 &ndash; Present<br/>
       <sub>Building full-stack solutions in an engineering-focused environment.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.kempetro.com.br/"><img src="https://media.licdn.com/dms/image/v2/C4D0BAQH83ZVusjogGA/company-logo_200_200/company-logo_200_200/0/1669891931458/kempetro_engenharia_logo?e=2147483647&v=beta&t=Gnbs1hshNURGdZ6e2cbTp65v9UylnfNy_o9gIWtjLoQ" width="60px" alt="Kempetro Engenharia" /></a>
+    </td>
+    <td>
+      <strong>Software Developer Intern</strong><br/>
+      <a href="https://www.kempetro.com.br/">Kempetro Engenharia</a> &nbsp;&bull;&nbsp; Sep 2025 &ndash; Sep 2026<br/>
+      <sub>Built full-stack solutions in an engineering-focused environment.</sub>
     </td>
   </tr>
   <tr>
