@@ -15,15 +15,15 @@
 
 ## About
 
-Backend-focused software developer building internal systems at Kempetro Engenharia with Node.js, NestJS and TypeScript. I am finishing a Computer Science degree and moving toward information security and computer networks.
+Full stack software developer with a preference for backend, working across frontend, backend, DevOps, databases, infrastructure, UX/UI and documentation. I build internal systems at Kempetro Engenharia with Node.js, NestJS and TypeScript, and I am moving toward information security and computer networks.
 
 ## Focus
 
-| Backend | Cloud | Security and networks |
+| Full stack | Cloud and infrastructure | Security and networks |
 |---|---|---|
-| API design and scalable services | AWS (Certified Cloud Practitioner) | Secure development and auditing |
-| Clean code and SOLID | Docker and Linux servers | Computer networks |
-| Node.js, NestJS and TypeScript | CI/CD and automation | CTFs and reverse engineering |
+| Backend with Node.js, NestJS and TypeScript | AWS (Certified Cloud Practitioner) | Secure development and auditing |
+| Frontend and UX/UI | Docker and Linux servers | Computer networks |
+| API design, databases and documentation | CI/CD and automation | CTFs and reverse engineering |
 
 ## Experience
 
